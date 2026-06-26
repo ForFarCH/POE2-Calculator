@@ -1,6 +1,3 @@
-<img width="654" height="1014" alt="{1261BF56-730B-4168-A034-1371B12341B0}" src="https://github.com/user-attachments/assets/b4b15a4d-cf85-4842-9ab0-d1c2e01ee4ec" />
-
-
 # POE2-Calculator
 POE2 Calculator for deciding which currency should u trade for
 [README.md](https://github.com/user-attachments/files/29363014/README.md)
@@ -8,6 +5,8 @@ POE2 Calculator for deciding which currency should u trade for
 
 [TH] โปรแกรมคำนวณและเปรียบเทียบค่าเงินสำหรับเกม Path of Exile 2 เพื่อหาทางเลือกในการแลกเปลี่ยนที่คุ้มค่าที่สุด  
 [EN] A currency calculator and comparison tool for Path of Exile 2 to find the most optimal exchange options.
+
+<img width="654" height="1014" alt="{1261BF56-730B-4168-A034-1371B12341B0}" src="https://github.com/user-attachments/assets/b4b15a4d-cf85-4842-9ab0-d1c2e01ee4ec" />
 
 ---
 
@@ -58,3 +57,5 @@ In cases where you have 3 or more currencies to evaluate, you should compare tho
   * **Second Added Pair:** Set the first slot to *Chaos Orb* (or your preferred primary currency) and its counterpart to *Divine Orb*.
 
 > **An Easy Example:** To get a quick grasp of how this works, we highly recommend experimenting with **Exalted Orbs** and **Divine Orbs** first. Once you understand how the program processes these core currencies, scaling it up to other currency combinations will be completely effortless!
+
+
