@@ -1,3 +1,6 @@
+<img width="654" height="1014" alt="{1261BF56-730B-4168-A034-1371B12341B0}" src="https://github.com/user-attachments/assets/b4b15a4d-cf85-4842-9ab0-d1c2e01ee4ec" />
+
+
 # POE2-Calculator
 POE2 Calculator for deciding which currency should u trade for
 [README.md](https://github.com/user-attachments/files/29363014/README.md)
